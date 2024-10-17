@@ -1,1 +1,27 @@
+# Git installation. 
+1st we need a account in the GitHub.
+Use this link: https://github.com/
+
+# Repository creation:
+after the account, create a new repository.
+1. Click the + icon. 
+2. Click new repository
+3. Enter the Repository Name: type something
+4. select the public option
+5. Click repository
+--Repository created successfully. 
+
+# Create a git access in our local system.
+1. Install git application 
+use this link: https://git-scm.com/downloads
+2. After the download please install in your system
+3. open a command promphet.
+4. type: git  
+5. you see few line in git related contend. after that you know its successfully installed.
+
+# connect git in our local system.
+1. open command promphet
+2. type: git config --global user.name "User name in Git"
+3. type: git config --global user.email "github mail ID"
+4. successfully git configure in our local system.
 
